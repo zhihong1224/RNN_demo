@@ -11,3 +11,6 @@
 
 2020/5/16/Li hongyi                 
 1.Seq2Seq                 
+
+2020/5/24/Fastai                       
+1.RNN_demo                          
